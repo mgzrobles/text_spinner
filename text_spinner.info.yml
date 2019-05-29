@@ -1,0 +1,6 @@
+name: IDCMS Text Spinner
+description: 'Text spinner is a module to generate spin text content.'
+package: Custom
+type: module
+version: 1.0
+core: 8.x
